@@ -1,0 +1,32 @@
+{
+  "name": "next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "dev80": "next -p 80",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "start80": "next start -p 80",
+    "start8080": "next start -p 8080"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/system": "^4.9.6",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "next": "^9.3.1",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-scroll": "^1.7.16",
+    "react-scrollspy": "^3.4.2",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.10.7"
+  }
+}
