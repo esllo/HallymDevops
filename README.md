@@ -10,6 +10,8 @@ npm | 6.13.4
 yarn | 1.22.4
 OS | Windows 10 v1909 (build 18363.720)
 
+node js 12.16.x | npm 6.13.x > https://nodejs.org/ko/download/
+
 # Installation
 ## install yarn
 ``` 
